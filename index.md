@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Homepage
+menus: header
 ---
 
-This is some text in the index file.
+Welcome to cycloique website.
