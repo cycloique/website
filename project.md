@@ -4,4 +4,4 @@ title: Project
 permalink: /project/
 ---
 
-Describe your project here.
+Yes, we are going to build solar power assisted bicycles to promote CO2 free travels.
