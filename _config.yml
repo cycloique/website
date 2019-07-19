@@ -33,8 +33,8 @@ plugins:
 
 header_pages:
   - project.md
-  - trips.html
-  - about.html
+  - trips.md
+  - about.md
   - contact.md
   - acknowledgment.md
 
