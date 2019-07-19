@@ -5,7 +5,7 @@ title: New Zealand, south island
 
 # The route
 
-The full route covers more than 700 kilometers and includes more than 6500 meters of ascent. We divided it in 7 stages which require a relatively good level of fitness. The most beautiful parts are located from Springfield to Hokitika (stage 2 and 3) and form Haast to Queenstown (stage 6 and 7). The route from Hokitika to Haast should be avoided during tourism period as there can be a lot of trafic. More generaly, there is no small roads on this part of New Zealand and you need to be very careful as there can be trucks, camping car, etc. However, this part of New Zealand is amazing, specialy around Queenstown where sportsman will be in paradise.
+The full route covers more than 700 kilometers and includes more than 6500 meters of ascent. We divided it in 7 stages which require a relatively good level of fitness. The most beautiful parts are located from Springfield to Hokitika (stage 2 and 3) and form Haast to Queenstown (stage 6 and 7). The route from Hokitika to Haast should be avoided during tourism period as there can be a lot of trafic. More generaly, there is no small roads on this part of New Zealand and you need to be very careful as there can be trucks, camping car, etc. However, this part of New Zealand is amazing, specialy around Queenstown where sportsmen will be in paradise.
 <iframe width="480px" height="580px" src="https://www.openrunner.com/route/10250500/embed/fr/4f474a2b7841566471774f754f2b6e447a4c64536b482b78375051527339446e664f2f535333367563576f3d3a3a94b9a872c1f49112b9594d8b16025e5e" frameborder="0" allowfullscreen></iframe>
 
 ## Stage 1: Christchurch - Springfield
