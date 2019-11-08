@@ -4,4 +4,4 @@ title: Acknowledgment
 permalink: /acknowledgment/
 ---
 
-We gratefully acknowledge some people...
+We gratefully acknowledge GitHub for providing the platform for this website.
