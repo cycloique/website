@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
+title: Solar project
 permalink: /project/
 ---
 
