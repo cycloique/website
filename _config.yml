@@ -19,8 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   This website aims at promoting our bicycle touring trips and more recently the project of bicycle touring assisted by solar locally produced electricity.
 baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "cycloique.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: cycloique
-github_username:  cycloique
+#twitter_username: cycloique
+#github_username:  cycloique
+facebook_username: cycloique
 
 # Build settings
 markdown: kramdown
@@ -33,7 +34,7 @@ header_pages:
   - project.md
   - trips.md
   - about.md
-  - contact.md
+#  - contact.md
   - acknowledgment.md
 
 # Exclude from processing.
