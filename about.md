@@ -10,4 +10,4 @@ Hence, we plan to build technological marvels to reach this goal using the techn
 # About us
 We are two engineers and PhD students in the field of energy who like to ride bicycles. Recently, we did some bike touring and we liked this way of travelling at a slow pace, taking the time to appreciate the wonderful scenic landscapes.
 - [More about Louis](http://google.com)
-- [More about Quentin](http://google.com)
+- [More about Quentin](https://cycloique.github.io/qmale/)
