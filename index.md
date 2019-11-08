@@ -4,5 +4,4 @@
 
 layout: home
 ---
-
-Welcome to cycloique website.
+[comment]: # Welcome to cycloique website.
